@@ -18,6 +18,7 @@ The RAW files were downloaded and analyzed with Comet and the PAW pipeline. Alth
 Successful proteomics data analyses often need more than good training, domain knowledge, and intelligence. They need common sense and a flair for the practical. Preparing the data for analysis from the (all too often) horrendous summary files takes skill and practice. There may be data that needs to excluded on the basis of measurement limitations. This is conceptually very different from excluding a specific sample. The analysis presented here touches on some of these aspects, which can also have applicability in other types of proteomics studies.
 
 A direct link to the rendered notebook is [here](https://pwilmart.github.io/TMT_analysis_examples/ABRF_2015_edgeR.html)
+
 ---
 
 **_File Key:_**
