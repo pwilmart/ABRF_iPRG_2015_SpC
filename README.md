@@ -1,6 +1,6 @@
-# ABRF_iPRG_2015_SPC
+# ABRF_iPRG_2015_SpC
 
-## Spectral Counting (SPC) Analysis with R and edgeR
+## Spectral Counting (SpC) Analysis with R and edgeR
 ### Phil Wilmarth, OHSU
 ### October 1, 2018
 
